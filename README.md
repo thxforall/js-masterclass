@@ -7,5 +7,12 @@ Udemy Course : JavaScript Perfect Guide
 ### Fisrt Dive in Js 2024-01-31
 
 - script
-- Variable & Constants
+- variable & Constants
   (What is Code Snipet? : a reusable block of code)
+
+### Function & Scope 2024-02-18
+
+- function (Code on Demand)
+- variable
+- code order
+- global & local(block)
