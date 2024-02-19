@@ -16,3 +16,8 @@ Udemy Course : JavaScript Perfect Guide
 - variable
 - code order
 - global & local(block)
+
+### Data type & Claculation 2024-02-19
+
+- data type
+- cal, arry, obj
