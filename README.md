@@ -31,3 +31,11 @@ Udemy Course : JavaScript Perfect Guide
 - Typeof
 - defr & async
 - imort
+
+### Debugging & Efficient Dev 2024-02-21
+
+- write code efficient
+- find help
+- debug
+- IDE setting
+- search power
