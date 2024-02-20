@@ -19,5 +19,15 @@ Udemy Course : JavaScript Perfect Guide
 
 ### Data type & Claculation 2024-02-19
 
+- parseInt/float , toString
+- operation
 - data type
 - cal, arry, obj
+
+### Data type & Import 2024-02-20
+
+- object function
+- undefined, null & NaN
+- Typeof
+- defr & async
+- imort
