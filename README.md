@@ -32,10 +32,17 @@ Udemy Course : JavaScript Perfect Guide
 - defr & async
 - imort
 
-### Debugging & Efficient Dev 2024-02-21
+### Efficient Dev 2024-02-21
 
 - write code efficient
 - find help
 - debug
 - IDE setting
 - search power
+
+### Debugging 2024-02-22
+
+- debuging view
+- breakpoint
+- debugger step
+- IDE debugging
