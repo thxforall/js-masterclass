@@ -46,3 +46,11 @@ Udemy Course : JavaScript Perfect Guide
 - breakpoint
 - debugger step
 - IDE debugging
+
+### Control Structures 2024-02-23
+
+- conditional code
+- loops
+- if, else-if, else
+- booleans
+- operate precedence
