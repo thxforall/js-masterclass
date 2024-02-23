@@ -54,3 +54,8 @@ Udemy Course : JavaScript Perfect Guide
 - if, else-if, else
 - booleans
 - operate precedence
+
+### More Project 2024-02-24
+
+- Falsy and Truthy values
+- Monster Killer app
