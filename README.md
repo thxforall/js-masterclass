@@ -55,7 +55,7 @@ Udemy Course : JavaScript Perfect Guide
 - booleans
 - operate precedence
 
-### More Project 2024-02-24
+### More Project 2024-02-24 ~ 2024-02-25
 
 - Falsy and Truthy values
 - Monster Killer app
