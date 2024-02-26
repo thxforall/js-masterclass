@@ -59,3 +59,6 @@ Udemy Course : JavaScript Perfect Guide
 
 - Falsy and Truthy values
 - Monster Killer app
+- if, else if, &&, ||
+- prompt
+- log
