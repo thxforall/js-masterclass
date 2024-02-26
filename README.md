@@ -62,3 +62,7 @@ Udemy Course : JavaScript Perfect Guide
 - if, else if, &&, ||
 - prompt
 - log
+
+### Conditional Expressions / Ternary Operator 2024-02-26
+
+-
