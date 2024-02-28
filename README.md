@@ -66,3 +66,11 @@ Udemy Course : JavaScript Perfect Guide
 ### Conditional Expressions / Ternary Operator 2024-02-26
 
 -
+
+### Conditional Expressions / Ternary Operator 2024-02-27
+
+-
+
+### Conditional Expressions / Ternary Operator 2024-02-28
+
+-
