@@ -65,7 +65,10 @@ Udemy Course : JavaScript Perfect Guide
 
 ### Conditional Expressions / Ternary Operator 2024-02-26
 
--
+- ternary operation
+- expression, statement
+- special logical operator
+- boolean tricks(!!, ||, &&)
 
 ### Switch & Case & for 2024-02-27
 
