@@ -70,9 +70,13 @@ Udemy Course : JavaScript Perfect Guide
 - special logical operator
 - boolean tricks(!!, ||, &&)
 
-### Switch & Case & for 2024-02-27
+### Switch, Case & Loops 2024-02-27
 
--
+- switch & case
+- for
+- for-of
+- for-in
+- while & do while
 
 ### Break & Continnue & Try-catch 2024-02-28
 
