@@ -67,10 +67,18 @@ Udemy Course : JavaScript Perfect Guide
 
 -
 
-### Conditional Expressions / Ternary Operator 2024-02-27
+### Switch & Case & for 2024-02-27
 
 -
 
-### Conditional Expressions / Ternary Operator 2024-02-28
+### Break & Continnue & Try-catch 2024-02-28
+
+-
+
+### Javascript Text 2024-02-29
+
+-
+
+### Javascript & API 2024-03-01
 
 -
