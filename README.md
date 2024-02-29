@@ -78,9 +78,12 @@ Udemy Course : JavaScript Perfect Guide
 - for-in
 - while & do while
 
-### Break & Continnue & Try-catch 2024-02-28
+### Break, Continnue & Error Handling 2024-02-28
 
--
+- break
+- continue
+- label statement (Dangerous => Infinite loop!)
+- try catch
 
 ### Javascript Text 2024-02-29
 
