@@ -85,10 +85,14 @@ Udemy Course : JavaScript Perfect Guide
 - label statement (Dangerous => Infinite loop!)
 - try catch
 
-### Javascript Text 2024-02-29
+### Behind The Scenes of JavaScript 2024-02-29
 
 -
 
 ### Javascript & API 2024-03-01
+
+-
+
+### Javascript & API 2024-03-02
 
 -
