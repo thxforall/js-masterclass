@@ -87,9 +87,12 @@ Udemy Course : JavaScript Perfect Guide
 
 ### Behind The Scenes of JavaScript 2024-02-29
 
--
+- ES5 VS ES6+ Syntax
+- var, let, const
+- hoisting
+- "use strict";
 
-### Javascript & API 2024-03-01
+### How Js Works 2024-03-01
 
 -
 
