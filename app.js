@@ -1,19 +1,68 @@
-// let name = 'Kiyori';
+const ROCK = 'ROCK';
+const PAPER = 'PAPER';
+const SCISSORS = 'SCISSORS';
+const DEFAULT_USER_CHOICE = 'ROCK';
+const RESULT_DRAW = 'DRAW';
+const RESULT_PLAYER_WIN = 'PLAYER_WIN';
+const RESULT_COMPUTER_WIN = 'COMPUER_WIN';
 
-// if (name === 'Kiyori') {
-//   let hobbies = ['soprts', 'cooking'];
-// }
+let gameIsRunning = false;
 
-// function greet() {
-//   let age = 27;
-//   let name = 'king';
-//   console.log(name, age);
-// }
+const startGameBtn = document.getElementById('start-game-btn');
 
-// console.log(name);
+const getPlayerChoice = () => {
+  const selection = prompt(
+    `${ROCK}, ${PAPER} or ${SCISSORS}?`,
+    ''
+  ).toUpperCase();
+  if (selection !== ROCK && selection !== PAPER && selection !== SCISSORS) {
+    alert(`Invalid choice! We chose ${DEFAULT_USER_CHOICE} for you!`);
+    return DEFAULT_USER_CHOICE;
+  }
+  return selection;
+};
 
-// greet();
+const getComputerChoice = () => {
+  const randomValue = Math.random();
+  if (randomValue < 0.34) {
+    return ROCK;
+  } else if (randomValue < 0.67) {
+    return PAPER;
+  } else {
+    return SCISSORS;
+  }
+};
 
-console.log(userName);
+const add = (a, b) => a + b;
 
-var userName = 'Max';
+const getWinnr = (cChoice, pChoice) =>
+  cChoice === pChoice
+    ? RESULT_DRAW
+    : (cChoice === ROCK && pChoice === PAPER) ||
+      (cChoice === PAPER && pChoice === SCISSORS) ||
+      (cChoice === SCISSORS && pChoice === ROCK)
+    ? RESULT_PLAYER_WIN
+    : RESULT_COMPUTER_WIN;
+
+//   if (cChoice === pChoice) {
+//     return RESULT_DRAW;
+//   } else if (
+//     (cChoice === ROCK && pChoice === PAPER) ||
+//     (cChoice === PAPER && pChoice === SCISSORS) ||
+//     (cChoice === SCISSORS && pChoice === ROCK)
+//   ) {
+//     return RESULT_PLAYER_WIN;
+//   } else {
+//     return RESULT_COMPUTER_WIN;
+//   }
+startGameBtn.addEventListener('click', () => {
+  if (gameIsRunning) {
+    return;
+  }
+  gameIsRunning = true;
+  console.log('Game is starting...');
+  const playerChoice = getPlayerChoice();
+  const computerChoice = getComputerChoice();
+  const winner = getWinnr(computerChoice, playerChoice);
+  console.log(winner);
+});

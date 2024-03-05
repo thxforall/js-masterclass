@@ -105,9 +105,13 @@ Udemy Course : JavaScript Perfect Guide
 - stack
 - garbage collection, memory leaks
 
-### 2024-03-03
+### More about Functions 2024-03-03
 
--
+- rock, paper, scissros
+- function vs method
+- function is object
+- defining functions
+- arrow function ->
 
 ### 2024-03-04
 
