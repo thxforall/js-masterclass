@@ -94,11 +94,16 @@ Udemy Course : JavaScript Perfect Guide
 
 ### How Js Works 2024-03-01
 
--
+- JavaScript Engines
+- Heap & Stack
+- Event Loop
 
-### Javascript & API 2024-03-02
+### Primitive vs Reference Types 2024-03-02
 
--
+- primitive
+- reference
+- stack
+- garbage collection, memory leaks
 
 ### 2024-03-03
 
