@@ -127,6 +127,9 @@ Udemy Course : JavaScript Perfect Guide
 - calculation bind
 - call, apply
 
-### 2024-03-06
+### Interacting with the HTML Page 2024-03-06
 
--
+- Document Object Model
+- document vs window
+- Querying Elements
+- node & element
