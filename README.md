@@ -120,9 +120,12 @@ Udemy Course : JavaScript Perfect Guide
 - Rest argument
 - nested function
 
-### 2024-03-05
+### Call back & bind() 2024-03-05
 
--
+- call back function
+- bind()
+- calculation bind
+- call, apply
 
 ### 2024-03-06
 
