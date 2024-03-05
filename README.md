@@ -113,9 +113,12 @@ Udemy Course : JavaScript Perfect Guide
 - defining functions
 - arrow function ->
 
-### 2024-03-04
+### Rock, Paper, Scissors 2024-03-04
 
--
+- more function
+- default argument
+- Rest argument
+- nested function
 
 ### 2024-03-05
 
