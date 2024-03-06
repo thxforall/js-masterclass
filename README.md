@@ -133,3 +133,12 @@ Udemy Course : JavaScript Perfect Guide
 - document vs window
 - Querying Elements
 - node & element
+
+### DOM Basic 2024-03-07
+
+- evaluating & manipulating elements
+- attributes & properties
+- traversing the dom
+- child, children
+- parent
+- dom style
