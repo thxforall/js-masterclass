@@ -1,4 +1,5 @@
 const mainTitleElement = document.getElementById('main-title');
+const redBg = document.getElementsByClassName('red-bg')[0];
 
 mainTitleElement.textContent = 'Some new Title';
 mainTitleElement.style.color = 'white';

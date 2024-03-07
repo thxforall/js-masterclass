@@ -142,3 +142,15 @@ Udemy Course : JavaScript Perfect Guide
 - child, children
 - parent
 - dom style
+
+### DOM manage 2024-03-08
+
+- creating & inserting
+- innerHtml, inesrtAdjacentHTML
+- createElement, appendChild, append
+- insertAdjacentElement
+- cloneNode
+- live/none-live nodelist
+- remove, removeChild
+
+### New Project 2024-03-09
