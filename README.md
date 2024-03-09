@@ -154,3 +154,10 @@ Udemy Course : JavaScript Perfect Guide
 - remove, removeChild
 
 ### New Project 2024-03-09
+
+- modal
+- input fetching & validation
+- create list
+- delete list
+
+### Array 2024-03-10
