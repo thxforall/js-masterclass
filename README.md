@@ -160,4 +160,8 @@ Udemy Course : JavaScript Perfect Guide
 - create list
 - delete list
 
-### Array 2024-03-10
+### Array & Iterables 2024-03-10
+
+- iterable / array-like object
+- pop(),unshift(),pop(),shift()
+- splice()
