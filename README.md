@@ -165,3 +165,12 @@ Udemy Course : JavaScript Perfect Guide
 - iterable / array-like object
 - pop(),unshift(),pop(),shift()
 - splice()
+
+### Array 2024-03-11
+
+- selection scope, slice()
+- concat()
+- indexOf() / lastIndexOf()
+- find(), findindex()
+
+### Array 2024-03-12
