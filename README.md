@@ -172,5 +172,9 @@ Udemy Course : JavaScript Perfect Guide
 - concat()
 - indexOf() / lastIndexOf()
 - find(), findindex()
+- forEach()
+- map()
+- sorting(), reverse()ing
+- filter()
 
 ### Array 2024-03-12
