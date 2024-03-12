@@ -178,3 +178,18 @@ Udemy Course : JavaScript Perfect Guide
 - filter()
 
 ### Array 2024-03-12
+
+- () => {}
+- reduce()
+- method chain
+- split(), join()
+- (...)
+
+### Array 2024-03-13
+
+- array structure
+- Maps & Sets
+- Sets
+- Maps
+- WeakSet
+- WeakMap
