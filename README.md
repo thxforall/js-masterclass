@@ -185,11 +185,10 @@ Udemy Course : JavaScript Perfect Guide
 - split(), join()
 - (...)
 
-### Array 2024-03-13
+### Iterable Maps & Sets 2024-03-13
 
-- array structure
+- array destructuring
 - Maps & Sets
 - Sets
 - Maps
-- WeakSet
-- WeakMap
+- WeakSet, WeakMap
