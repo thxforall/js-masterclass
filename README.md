@@ -192,3 +192,15 @@ Udemy Course : JavaScript Perfect Guide
 - Sets
 - Maps
 - WeakSet, WeakMap
+
+### Object 2024-03-14
+
+- object recap
+- propery
+- key, propery access
+- nubmer property, property order
+- working wiht object
+
+### Object 2024-03-15
+
+### Class 2024-03-16
