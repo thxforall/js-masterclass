@@ -212,4 +212,10 @@ Udemy Course : JavaScript Perfect Guide
 - this in function
 - getter & setter
 
-### Class 2024-03-16
+### Class & OOP 2024-03-16
+
+- Object-oriented-Programing
+- class
+- class constructor
+- fileds vs properties
+- method binding
