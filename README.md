@@ -203,4 +203,13 @@ Udemy Course : JavaScript Perfect Guide
 
 ### Object 2024-03-15
 
+- Object.assign();
+- object destructuring
+- property check
+- this
+- this error -> bind()
+- call(), apply()
+- this in function
+- getter & setter
+
 ### Class 2024-03-16
