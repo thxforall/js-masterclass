@@ -4,27 +4,27 @@ Udemy Course : JavaScript Perfect Guide
 
 ---
 
-### Fisrt Dive in Js 2024-01-31
+### Fisrt Dive in Js
 
 - script
 - variable & Constants
   (What is Code Snipet? : a reusable block of code)
 
-### Function & Scope 2024-02-18
+### Function & Scope
 
 - function (Code on Demand)
 - variable
 - code order
 - global & local(block)
 
-### Data type & Claculation 2024-02-19
+### Data type & Claculation
 
 - parseInt/float , toString
 - operation
 - data type
 - cal, arry, obj
 
-### Data type & Import 2024-02-20
+### Data type & Import
 
 - object function
 - undefined, null & NaN
@@ -32,7 +32,7 @@ Udemy Course : JavaScript Perfect Guide
 - defr & async
 - imort
 
-### Efficient Dev 2024-02-21
+### Efficient Dev
 
 - write code efficient
 - find help
@@ -40,14 +40,14 @@ Udemy Course : JavaScript Perfect Guide
 - IDE setting
 - search power
 
-### Debugging 2024-02-22
+### Debugging
 
 - debuging view
 - breakpoint
 - debugger step
 - IDE debugging
 
-### Control Structures 2024-02-23
+### Control Structures
 
 - conditional code
 - loops
@@ -55,7 +55,7 @@ Udemy Course : JavaScript Perfect Guide
 - booleans
 - operate precedence
 
-### More Project 2024-02-24 ~ 2024-02-25
+### More Project
 
 - Falsy and Truthy values
 - Monster Killer app
@@ -63,14 +63,14 @@ Udemy Course : JavaScript Perfect Guide
 - prompt
 - log
 
-### Conditional Expressions / Ternary Operator 2024-02-26
+### Conditional Expressions / Ternary Operator
 
 - ternary operation
 - expression, statement
 - special logical operator
 - boolean tricks(!!, ||, &&)
 
-### Switch, Case & Loops 2024-02-27
+### Switch, Case & Loops
 
 - switch & case
 - for
@@ -78,34 +78,34 @@ Udemy Course : JavaScript Perfect Guide
 - for-in
 - while & do while
 
-### Break, Continnue & Error Handling 2024-02-28
+### Break, Continnue & Error Handling
 
 - break
 - continue
 - label statement (Dangerous => Infinite loop!)
 - try catch
 
-### Behind The Scenes of JavaScript 2024-02-29
+### Behind The Scenes of JavaScript
 
 - ES5 VS ES6+ Syntax
 - var, let, const
 - hoisting
 - "use strict";
 
-### How Js Works 2024-03-01
+### How Js Works
 
 - JavaScript Engines
 - Heap & Stack
 - Event Loop
 
-### Primitive vs Reference Types 2024-03-02
+### Primitive vs Reference Types
 
 - primitive
 - reference
 - stack
 - garbage collection, memory leaks
 
-### More about Functions 2024-03-03
+### More about Functions
 
 - rock, paper, scissros
 - function vs method
@@ -113,28 +113,28 @@ Udemy Course : JavaScript Perfect Guide
 - defining functions
 - arrow function ->
 
-### Rock, Paper, Scissors 2024-03-04
+### Rock, Paper, Scissors
 
 - more function
 - default argument
 - Rest argument
 - nested function
 
-### Call back & bind() 2024-03-05
+### Call back & bind()
 
 - call back function
 - bind()
 - calculation bind
 - call, apply
 
-### Interacting with the HTML Page 2024-03-06
+### Interacting with the HTML Page
 
 - Document Object Model
 - document vs window
 - Querying Elements
 - node & element
 
-### DOM Basic 2024-03-07
+### DOM Basic
 
 - evaluating & manipulating elements
 - attributes & properties
@@ -143,7 +143,7 @@ Udemy Course : JavaScript Perfect Guide
 - parent
 - dom style
 
-### DOM manage 2024-03-08
+### DOM manage
 
 - creating & inserting
 - innerHtml, inesrtAdjacentHTML
@@ -153,20 +153,20 @@ Udemy Course : JavaScript Perfect Guide
 - live/none-live nodelist
 - remove, removeChild
 
-### New Project 2024-03-09
+### New Project
 
 - modal
 - input fetching & validation
 - create list
 - delete list
 
-### Array & Iterables 2024-03-10
+### Array & Iterables
 
 - iterable / array-like object
 - pop(),unshift(),pop(),shift()
 - splice()
 
-### Array 2024-03-11
+### Array
 
 - selection scope, slice()
 - concat()
@@ -177,7 +177,7 @@ Udemy Course : JavaScript Perfect Guide
 - sorting(), reverse()ing
 - filter()
 
-### Array 2024-03-12
+### Array
 
 - () => {}
 - reduce()
@@ -185,7 +185,7 @@ Udemy Course : JavaScript Perfect Guide
 - split(), join()
 - (...)
 
-### Iterable Maps & Sets 2024-03-13
+### Iterable Maps & Sets
 
 - array destructuring
 - Maps & Sets
@@ -193,7 +193,7 @@ Udemy Course : JavaScript Perfect Guide
 - Maps
 - WeakSet, WeakMap
 
-### Object 2024-03-14
+### Object
 
 - object recap
 - propery
@@ -201,7 +201,7 @@ Udemy Course : JavaScript Perfect Guide
 - nubmer property, property order
 - working wiht object
 
-### Object 2024-03-15
+### Object
 
 - Object.assign();
 - object destructuring
@@ -212,7 +212,7 @@ Udemy Course : JavaScript Perfect Guide
 - this in function
 - getter & setter
 
-### Class & OOP 2024-03-16
+### Class & OOP
 
 - Object-oriented-Programing
 - class
