@@ -221,3 +221,4 @@ JS MDN
 - class constructor
 - fileds vs properties
 - method binding
+- getter and setter
